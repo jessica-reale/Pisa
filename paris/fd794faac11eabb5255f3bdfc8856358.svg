@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="442.08" height="126" viewBox="0 0 442.08 126">
+<defs>
+<clipPath id="clip_1">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1841.6665V523.20077H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 0H1841.6665V517.2213H0Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_1)">
+<path transform="matrix(.7175324,0,0,.7175324,0,0)" d="M0 0H616V175H0Z" fill="#ffffff"/>
+</g>
+<g clip-path="url(#clip_2)">
+<path transform="matrix(.7175324,0,0,.7175324,.3587662,.3587662)" d="M199.96 1.14 412.78 2.38 413.58 81.8 201.77 81.78" fill="#ffffff"/>
+<path transform="matrix(.7175324,0,0,.7175324,.3587662,.3587662)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" d="M201 1C277.56 .1 353.39 1.19 413.5 1M201 1C248.38-.4 295.69-.13 413.5 1M413.5 1C412.33 28.7 414.28 51.09 413.5 81M413.5 1C413.79 28.7 414.02 56.79 413.5 81M413.5 81C332.82 81.52 253.3 82.07 201 81M413.5 81C356.01 81.22 296.91 81.24 201 81M201 81C199.25 59.78 200.27 39.32 201 1M201 81C201.84 58.49 201.13 34.31 201 1"/>
+<text xml:space="preserve" transform="matrix(.7175324 0 0 .7175324 0 0)" font-size="24" font-family="Helvetica"><tspan y="49" x="215.45313 232.78113 246.12512 259.46913 264.79713 271.46913 276.79713 290.1411 302.1411 315.4851 327.4851 334.1571 354.1491 367.4931 380.8371 387.5091">Real investments</tspan></text>
+<path transform="matrix(.7175324,0,0,.7175324,.3587662,.3587662)" d="M.74 99.9 193.41 102.07 192.36 170.68 2.56 172.36" fill="#ffffff" fill-opacity=".702"/>
+<path transform="matrix(.7175324,0,0,.7175324,.3587662,.3587662)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" stroke-opacity=".702" d="M1 101C69.91 99.74 139.11 100.94 193.5 101M1 101C45.4 100.5 87.97 100.77 193.5 101M193.5 101C193.83 122.98 191.78 143.16 193.5 171M193.5 101C192.31 117.93 192.63 133.49 193.5 171M193.5 171C120.8 168.81 51.27 170.63 1 171M193.5 171C132.48 170.74 70.42 170.18 1 171M1 171C3.37 155.39 .4 136.19 1 101M1 171C1.83 143.95 1.24 116.72 1 101"/>
+<text xml:space="preserve" transform="matrix(.7175324 0 0 .7175324 0 0)" font-size="24" font-family="Helvetica"><tspan y="130" x="40.140626 46.812627 60.156629 72.15663 85.50063">Insuf</tspan></text>
+<text xml:space="preserve" transform="matrix(.7175324 0 0 .7175324 0 0)" font-size="24" font-family="Helvetica"><tspan y="130" x="92.17264">&#xfb01;</tspan></text>
+<text xml:space="preserve" transform="matrix(.7175324 0 0 .7175324 0 0)" font-size="24" font-family="Helvetica"><tspan y="130" x="104.17264 116.17264 121.50064 134.84464 148.18863">cient</tspan></text>
+<text xml:space="preserve" transform="matrix(.7175324 0 0 .7175324 0 0)" font-size="24" font-family="Helvetica"><tspan y="159" x="53.484376 65.484378 78.82838 92.17238 105.51638 117.51638 122.84438 129.51639">capacity</tspan></text>
+<path transform="matrix(.7175324,0,0,.7175324,.3587662,.3587662)" d="M419.79 100.35 613.64 101.5 612.01 171.74 421.74 172.33" fill="#ffffff" fill-opacity=".702"/>
+<path transform="matrix(.7175324,0,0,.7175324,.3587662,.3587662)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" stroke="#000000" stroke-opacity=".702" d="M421 101C487.63 100.74 558.47 102.33 613.5 101M421 101C491.51 102.45 562.95 103.16 613.5 101M613.5 101C613.45 128.24 613.13 150.67 613.5 171M613.5 101C613.01 128.01 613.12 153.67 613.5 171M613.5 171C558.4 171.76 499.64 172.58 421 171M613.5 171C573.71 171.79 536.46 171.01 421 171M421 171C419.92 149.65 422.01 124.37 421 101M421 171C421.23 150.57 420.97 129.81 421 101"/>
+<text xml:space="preserve" transform="matrix(.7175324 0 0 .7175324 0 0)" font-size="24" font-family="Helvetica"><tspan y="144" x="441.45314 460.12513 473.46913 485.46913 498.8131 504.1411 517.4851 529.4851 541.4851 554.8291 568.1731 580.1731">Obsolescence</tspan></text>
+</g>
+</svg>
